@@ -4,17 +4,19 @@ const fs = require('fs')
 const puppeteer = require('puppeteer')
 
 const delay = (milliseconds) => new Promise(resolve => setTimeout(resolve, milliseconds));
+const testUrl = 'https://mirafit.co.uk/mirafit-m2-flat-weight-bench.html';
 
-const scrape = async () => {
+
+const scrapeProduct = async (url) => {
     try {
     const browser = await puppeteer.launch({headless: false });
     const page = await browser.newPage();
   
     // Replace with the URL of your website
-    const url = 'https://mirafit.co.uk/mirafit-m2-flat-weight-bench.html';
+    
     await page.goto(url);
     await delay()
-    await page.click('button.amgdprcookie-button.-allow.-save[data-amgdprcookie-js="accept"]');
+    // await page.click('button.amgdprcookie-button.-allow.-save[data-amgdprcookie-js="accept"]');
     const product = {}
     // Evaluate the page to extract the href attributes
     product.img = await page.evaluate(() => {
@@ -71,7 +73,6 @@ const scrape = async () => {
     await delay()
 
 
-
     
     
     fs.writeFileSync("./data.json", JSON.stringify(product));
@@ -83,7 +84,7 @@ const scrape = async () => {
     }
   };
 
-scrape()
+scrapeProduct(testUrl)
 
 
 
