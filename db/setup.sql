@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS mirafit_test;
+DROP DATABASE IF EXISTS mirafit;
+
+CREATE DATABASE mirafit_test;
+CREATE DATABASE mirafit;

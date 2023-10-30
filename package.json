@@ -10,6 +10,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "pg": "^8.11.3",
+    "pg-format": "^1.0.4",
     "puppeteer": "^21.4.1"
   }
 }
