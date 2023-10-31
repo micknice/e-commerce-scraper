@@ -4451,7 +4451,7 @@
         "img": [
             "https://mirafit.co.uk/media/catalog/product/cache/79c51d00d9e5a83841cf49a27ce77240/M/i/Mirafit-2-Inch-Olympic-Barbell-Weight-Bars.jpg"
         ],
-        "name": "Mirafit 2\" Olympic Barbell Weight Bar - 4ft/5ft/6ft/7ft",
+        "name": "Mirafit 2 Inch Olympic Barbell Weight Bar",
         "price": "£69.95",
         "overview": "Our Olympic Weight Bars are exactly what you need to progress. Choose from lighter, 4ft straight bars to full-sized 7ft bars to fit your squat rack or power rack. Knurled for a secure grip, each bar can handle up to 300kg. Suitable for 2\" weights.",
         "description": [
@@ -4584,7 +4584,7 @@
         "img": [
             "https://mirafit.co.uk/media/catalog/product/cache/79c51d00d9e5a83841cf49a27ce77240/M/i/Mirafit-Black-Olympic-Swiss-Bar-on-White-Background.jpg"
         ],
-        "name": "Mirafit Multi Grip Olympic Swiss Bar - Black",
+        "name": "Mirafit Multi Grip Olympic Swiss Bar Black",
         "price": "£119.95",
         "overview": "Our Olympic Swiss Bar is ideal for helping you to train with precision and quickly switching up grip positions. Perfect for targeting specific muscles while adding variety to your workout. Comes complete with branded orange bands. 350kg capacity.",
         "description": [
@@ -8764,38 +8764,7 @@
         "rating": "0",
         "reviews": []
     },
-    {
-        "category": "conditioning",
-        "subCat": "cardio-equipment",
-        "img": [
-            "https://mirafit.co.uk/media/catalog/product/cache/79c51d00d9e5a83841cf49a27ce77240/C/o/Concept2-RowERG-High-Legs-No-Gator-Front-Angle.jpg"
-        ],
-        "name": "Concept2 Tall Legs RowErg Rower and PM5 Monitor",
-        "price": "£1,149.95",
-        "overview": "Tall leg version of the best selling Concept2 RowErg Rower complete with PM5 Monitor.",
-        "description": [
-            "Concept2 Tall Legs RowErg Rower with PM5 Monitor ",
-            "Tall leg version with a higher 20\" seat height (compared to the standard model height of 14\") ",
-            "The taller height can make it easier to get on and off the machine and is a good choice if you like the appearance of a taller machine ",
-            "A rowing machine suitable for all athletes - from beginner to Olympic ",
-            "Rower provides a full-body, low impact workout ",
-            "Supplied with PM5 performance monitor ",
-            "Connects via Bluetooth or ANT+ to the Concept2 ErgData app and several other applications ",
-            "Integrated device holder to keep smartphone or tablet secure while rowing ",
-            "Tall leg height model ",
-            "Previously known as the Model E Indoor Rower ",
-            "Black colour ",
-            "Measurements: ",
-            "Overall length: 244cm ",
-            "Monorail length: 137cm ",
-            "Width: 61cm ",
-            "Seat height: 51cm ",
-            "Total weight of rower: 31kg ",
-            "Maximum user weight: 300lb / 136kg "
-        ],
-        "rating": "0",
-        "reviews": []
-    },
+    
     {
         "category": "conditioning",
         "subCat": "cardio-equipment",
