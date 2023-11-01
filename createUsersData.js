@@ -44,12 +44,14 @@ fs.readFile(filePath, 'utf8', async(err, data) => {
                         city: userArr[index].city,
                         country: userArr[index].country,
                         postcode: userArr[index].postcode,
+                        password: '$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2',
+                        email_verified: true
                     }
                     console.log(userObj, 'userObj')
                     userObjArr.push(userObj)
                 }
         
-            fs.writeFileSync("./usersData.json", JSON.stringify(userObjArr, null, 4));
+            fs.writeFileSync("./usersData.js", JSON.stringify(userObjArr, null, 4));
               console.log("usersData filile is created!");
                 
             
