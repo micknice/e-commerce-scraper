@@ -20,3 +20,11 @@ exports.convertTimestampToDate = ({ date, ...otherProperties }) => {
       };
     });
   };
+
+  exports.convertPriceStringToNumber = (priceString) => {
+    const numericString = priceString.replace(/[^0-9.]/g, '');
+  
+    const priceNumber = parseFloat(numericString);
+  
+    return priceNumber;
+  }

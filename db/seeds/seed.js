@@ -4,12 +4,13 @@ const {
   convertTimestampToDate,
   createRef,
   formatComments,
+  convertPriceStringToNumber
 } = require('./utils');
 const {percentageToDecimal} = require('../../utils')
 
 const seed = (userData, productData, reviewData, addressData, inventoryData ) => {
-  return db
-    // .query(`DROP TABLE IF EXISTS reviews;`)
+  // return db
+    // .query(`TRUNCATE address, inventory, local_user, product, review, verification_token, web_order, web_order_quantities RESTART IDENTITY CASCADE;`)
     // .then(() => {
     //   return db.query(`DROP TABLE IF EXISTS product;`);
     // })
@@ -67,7 +68,7 @@ const seed = (userData, productData, reviewData, addressData, inventoryData ) =>
     //     product_id INT REFERENCES product(product_id) NOT NULL
     //   );`);
     // })
-    .then(() => {
+    // .then(() => {
       const insertUsersQueryStr = format(
         'INSERT INTO local_user (username, first_name, last_name, email, password) VALUES %L;',
         userData.map(({ username, first_name, last_name, email, password }) => [
@@ -79,8 +80,8 @@ const seed = (userData, productData, reviewData, addressData, inventoryData ) =>
         ])
       );
       const usersPromise = db.query(insertUsersQueryStr);
-      return Promise.all([usersPromise]);
-    })
+      return Promise.all([usersPromise])
+    // })
     .then(() => {
       const formattedProductData = productData.map(({category, subCat, img, name, price, overview, description, rating}) => 
       { return {category: category,
@@ -104,7 +105,7 @@ const seed = (userData, productData, reviewData, addressData, inventoryData ) =>
             subCat,
             rating,
             img,
-          }) => [name, overview, [description], price,  category, subCat, rating, img]
+          }) => [name, overview, `{textArr: ${description}}`, convertPriceStringToNumber(price),  category, subCat, rating, img]
         )
       );
       return db.query(insertProductsQueryStr);
