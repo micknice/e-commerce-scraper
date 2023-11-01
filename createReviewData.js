@@ -23,7 +23,7 @@ fs.readFile(filePath, 'utf8', async(err, data) => {
                   title: review.title.replace(/\n/g, ''),
                   rating: percentageToDecimal(review.rating.replace(/\n/g, '')),
                   body: review.body.replace(/\n/g, ''),
-                  productId: productIndex,
+                  productId: productIndex +1,
                 }
                 reviewObjArr.push(reviewObj)
               }

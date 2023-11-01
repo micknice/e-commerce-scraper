@@ -1,4 +1,4 @@
-const usersData = [
+const usersData =[
     {
         "username": "Richard ",
         "first_name": "Ninetta",
@@ -9,7 +9,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sam ",
@@ -21,7 +22,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "AdzGio ",
@@ -33,7 +35,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gary ",
@@ -45,7 +48,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "darren ",
@@ -57,7 +61,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hazel ",
@@ -69,7 +74,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "John ",
@@ -81,7 +87,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Barney ",
@@ -93,7 +100,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Steve ",
@@ -105,7 +113,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Denzchamps ",
@@ -117,7 +126,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Colin ",
@@ -129,7 +139,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GP95 ",
@@ -141,7 +152,8 @@ const usersData = [
         "city": "Ford",
         "country": "United Kingdom",
         "postcode": "GL54",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BillyR96 ",
@@ -153,7 +165,8 @@ const usersData = [
         "city": "Middleton",
         "country": "United Kingdom",
         "postcode": "LE16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dan ",
@@ -165,7 +178,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Geordie ",
@@ -177,7 +191,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kez ",
@@ -189,7 +204,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "David Jackson ",
@@ -201,7 +217,8 @@ const usersData = [
         "city": "Ford",
         "country": "United Kingdom",
         "postcode": "GL54",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Highlander ",
@@ -213,7 +230,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "IRONMAN ",
@@ -225,7 +243,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Monica ",
@@ -237,7 +256,8 @@ const usersData = [
         "city": "Middleton",
         "country": "United Kingdom",
         "postcode": "LE16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nath ",
@@ -249,7 +269,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Anndy ",
@@ -261,7 +282,8 @@ const usersData = [
         "city": "Merton",
         "country": "United Kingdom",
         "postcode": "SW19",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "David ",
@@ -273,7 +295,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "chris ",
@@ -285,7 +308,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Robin ",
@@ -297,7 +321,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pat ",
@@ -309,7 +334,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Trev ",
@@ -321,7 +347,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Arran ",
@@ -333,7 +360,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GavS ",
@@ -345,7 +373,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Paul ",
@@ -357,7 +386,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Broseph ",
@@ -369,7 +399,8 @@ const usersData = [
         "city": "Carlton",
         "country": "United Kingdom",
         "postcode": "DL8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mark ",
@@ -381,7 +412,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "welshwizard ",
@@ -393,7 +425,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Daz ",
@@ -405,7 +438,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Colin B ",
@@ -417,7 +451,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JJW ",
@@ -429,7 +464,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ken ",
@@ -441,7 +477,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "eddiesson03 ",
@@ -453,7 +490,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Milly ",
@@ -465,7 +503,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Trevor ",
@@ -477,7 +516,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ameet ",
@@ -489,7 +529,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Olly ",
@@ -501,7 +542,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bal ",
@@ -513,7 +555,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "anthony ",
@@ -525,7 +568,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Maria ",
@@ -537,7 +581,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "AC ",
@@ -549,7 +594,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pete3 ",
@@ -561,7 +607,8 @@ const usersData = [
         "city": "Edinburgh",
         "country": "United Kingdom",
         "postcode": "EH9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GuynoblePt ",
@@ -573,7 +620,8 @@ const usersData = [
         "city": "Merton",
         "country": "United Kingdom",
         "postcode": "SW19",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Flex ",
@@ -585,7 +633,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr woods ",
@@ -597,7 +646,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Scot ",
@@ -609,7 +659,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Davey boy ",
@@ -621,7 +672,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Conor ",
@@ -633,7 +685,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JJ ",
@@ -645,7 +698,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Barbill ",
@@ -657,7 +711,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dave ",
@@ -669,7 +724,8 @@ const usersData = [
         "city": "Manchester",
         "country": "United Kingdom",
         "postcode": "M14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Terry ",
@@ -681,7 +737,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Zammiefitness ",
@@ -693,7 +750,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kieron ",
@@ -705,7 +763,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Joesoap ",
@@ -717,7 +776,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Andy ",
@@ -729,7 +789,8 @@ const usersData = [
         "city": "Eaton",
         "country": "United Kingdom",
         "postcode": "DN22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pete N ",
@@ -741,7 +802,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RJ ",
@@ -753,7 +815,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jason ",
@@ -765,7 +828,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Merrionite ",
@@ -777,7 +841,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Em ",
@@ -789,7 +854,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "siGuy ",
@@ -801,7 +867,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ginger 28 ",
@@ -813,7 +880,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "WF ",
@@ -825,7 +893,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hank ",
@@ -837,7 +906,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jugjit ",
@@ -849,7 +919,8 @@ const usersData = [
         "city": "Marston",
         "country": "United Kingdom",
         "postcode": "ST20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Good product ",
@@ -861,7 +932,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "dumbum ",
@@ -873,7 +945,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "VASILII ",
@@ -885,7 +958,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Odin ",
@@ -897,7 +971,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "CB4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Aura Fitness ",
@@ -909,7 +984,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Karen ",
@@ -921,7 +997,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stan ",
@@ -933,7 +1010,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Alex ",
@@ -945,7 +1023,8 @@ const usersData = [
         "city": "Bradford",
         "country": "United Kingdom",
         "postcode": "BD7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Robbo77 ",
@@ -957,7 +1036,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Cali ",
@@ -969,7 +1049,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Clarence ",
@@ -981,7 +1062,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "WeenyArmsBuffLegs ",
@@ -993,7 +1075,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Quality item ",
@@ -1005,7 +1088,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "DrSpark ",
@@ -1017,7 +1101,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Charlie ",
@@ -1029,7 +1114,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "R&J ",
@@ -1041,7 +1127,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mandy ",
@@ -1053,7 +1140,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dunks ",
@@ -1065,7 +1153,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Railside ",
@@ -1077,7 +1166,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Becks ",
@@ -1089,7 +1179,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "KB ",
@@ -1101,7 +1192,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mike ",
@@ -1113,7 +1205,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Arron Barber ",
@@ -1125,7 +1218,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lianne ",
@@ -1137,7 +1231,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Norris ",
@@ -1149,7 +1244,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "B weddy ",
@@ -1161,7 +1257,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dave BW ",
@@ -1173,7 +1270,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ross ",
@@ -1185,7 +1283,8 @@ const usersData = [
         "city": "Whitwell",
         "country": "United Kingdom",
         "postcode": "DL10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Denz ",
@@ -1197,7 +1296,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Yoz ",
@@ -1209,7 +1309,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sean ",
@@ -1221,7 +1322,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "cathy ",
@@ -1233,7 +1335,8 @@ const usersData = [
         "city": "Marston",
         "country": "United Kingdom",
         "postcode": "ST20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "No name Nick. ",
@@ -1245,7 +1348,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ferrari93 ",
@@ -1257,7 +1361,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jonesy ",
@@ -1269,7 +1374,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Russ ",
@@ -1281,7 +1387,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rory ",
@@ -1293,7 +1400,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr Apple ",
@@ -1305,7 +1413,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Matt ",
@@ -1317,7 +1426,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stonecoldsd ",
@@ -1329,7 +1439,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Adam ",
@@ -1341,7 +1452,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Knoxy ",
@@ -1353,7 +1465,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gos ",
@@ -1365,7 +1478,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Annabelle ",
@@ -1377,7 +1491,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dan N ",
@@ -1389,7 +1504,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "PESTcrEEper ",
@@ -1401,7 +1517,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Allin ",
@@ -1413,7 +1530,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Samairb ",
@@ -1425,7 +1543,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Haggis ",
@@ -1437,7 +1556,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Claire ",
@@ -1449,7 +1569,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MC ",
@@ -1461,7 +1582,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Arc ",
@@ -1473,7 +1595,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Karl ",
@@ -1485,7 +1608,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lee ",
@@ -1497,7 +1621,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shelton ",
@@ -1509,7 +1634,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Zig ",
@@ -1521,7 +1647,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Al ",
@@ -1533,7 +1660,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Annaleen Venter ",
@@ -1545,7 +1673,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gareth ",
@@ -1557,7 +1686,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Langy ",
@@ -1569,7 +1699,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pav ",
@@ -1581,7 +1712,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Harry ",
@@ -1593,7 +1725,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Belly Bear ",
@@ -1605,7 +1738,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Luke ",
@@ -1617,7 +1751,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bernie ",
@@ -1629,7 +1764,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Becka ",
@@ -1641,7 +1777,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rich ",
@@ -1653,7 +1790,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "LMP ",
@@ -1665,7 +1803,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "cam96ell ",
@@ -1677,7 +1816,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ewan ",
@@ -1689,7 +1829,8 @@ const usersData = [
         "city": "Marston",
         "country": "United Kingdom",
         "postcode": "ST20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chris ",
@@ -1701,7 +1842,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "G ",
@@ -1713,7 +1855,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ash ",
@@ -1725,7 +1868,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Antony ",
@@ -1737,7 +1881,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Malleus ",
@@ -1749,7 +1894,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jimbob ",
@@ -1761,7 +1907,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "P ",
@@ -1773,7 +1920,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tom ",
@@ -1785,7 +1933,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Fiona ",
@@ -1797,7 +1946,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "D Att ",
@@ -1809,7 +1959,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "david ",
@@ -1821,7 +1972,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "James ",
@@ -1833,7 +1985,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "DJ ",
@@ -1845,7 +1998,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MttWlls ",
@@ -1857,7 +2011,8 @@ const usersData = [
         "city": "Eaton",
         "country": "United Kingdom",
         "postcode": "DN22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Luc ",
@@ -1869,7 +2024,8 @@ const usersData = [
         "city": "Whitwell",
         "country": "United Kingdom",
         "postcode": "DL10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Neil ",
@@ -1881,7 +2037,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Andrew ",
@@ -1893,7 +2050,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stacey ",
@@ -1905,7 +2063,8 @@ const usersData = [
         "city": "Horton",
         "country": "United Kingdom",
         "postcode": "BS37",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Silverback ",
@@ -1917,7 +2076,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jas ",
@@ -1929,7 +2089,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jay ",
@@ -1941,7 +2102,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chuck ",
@@ -1953,7 +2115,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Vega ",
@@ -1965,7 +2128,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "nickcl ",
@@ -1977,7 +2141,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lucy ",
@@ -1989,7 +2154,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "T ",
@@ -2001,7 +2167,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kirsteen ",
@@ -2013,7 +2180,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lewis ",
@@ -2025,7 +2193,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Coldem ",
@@ -2037,7 +2206,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Max ",
@@ -2049,7 +2219,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "D ",
@@ -2061,7 +2232,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chaz ",
@@ -2073,7 +2245,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jules ",
@@ -2085,7 +2258,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Len Webb ",
@@ -2097,7 +2271,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gazza ",
@@ -2109,7 +2284,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SGtheGhost85 ",
@@ -2121,7 +2297,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dominic ",
@@ -2133,7 +2310,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Toby ",
@@ -2145,7 +2323,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr G ",
@@ -2157,7 +2336,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sjames ",
@@ -2169,7 +2349,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ironrich ",
@@ -2181,7 +2362,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hakki ",
@@ -2193,7 +2375,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ckt73 ",
@@ -2205,7 +2388,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hutchie ",
@@ -2217,7 +2401,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Paddy ",
@@ -2229,7 +2414,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Simon ",
@@ -2241,7 +2427,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SR ",
@@ -2253,7 +2440,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Scotty ",
@@ -2265,7 +2453,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kibs ",
@@ -2277,7 +2466,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sazbadger ",
@@ -2289,7 +2479,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Martin R ",
@@ -2301,7 +2492,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "ChrisD ",
@@ -2313,7 +2505,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Edderz ",
@@ -2325,7 +2518,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Eddiesson03 ",
@@ -2337,7 +2531,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Peter ",
@@ -2349,7 +2544,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Daniel ",
@@ -2361,7 +2557,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RAW ",
@@ -2373,7 +2570,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Martin ",
@@ -2385,7 +2583,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BriPo ",
@@ -2397,7 +2596,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chalky ",
@@ -2409,7 +2609,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Adz ",
@@ -2421,7 +2622,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "mttldhm ",
@@ -2433,7 +2635,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "paul ",
@@ -2445,7 +2648,8 @@ const usersData = [
         "city": "Middleton",
         "country": "United Kingdom",
         "postcode": "LE16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Littlea34 ",
@@ -2457,7 +2661,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tman ",
@@ -2469,7 +2674,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BIG MAC ",
@@ -2481,7 +2687,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Euan ",
@@ -2493,7 +2700,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gav ",
@@ -2505,7 +2713,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Karla ",
@@ -2517,7 +2726,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bryce ",
@@ -2529,7 +2739,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SyebeZ ",
@@ -2541,7 +2752,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dragon1764 ",
@@ -2553,7 +2765,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Drew ",
@@ -2565,7 +2778,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "NanaP ",
@@ -2577,7 +2791,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dan Brown ",
@@ -2589,7 +2804,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Wendy ",
@@ -2601,7 +2817,8 @@ const usersData = [
         "city": "Merton",
         "country": "United Kingdom",
         "postcode": "SW19",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rhodri ",
@@ -2613,7 +2830,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Flexology ",
@@ -2625,7 +2843,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jonathan Stevenson ",
@@ -2637,7 +2856,8 @@ const usersData = [
         "city": "Glasgow",
         "country": "United Kingdom",
         "postcode": "G4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Johnnybhoy ",
@@ -2649,7 +2869,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Joe ",
@@ -2661,7 +2882,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Laura ",
@@ -2673,7 +2895,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Liz ",
@@ -2685,7 +2908,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nicky08 ",
@@ -2697,7 +2921,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "StrongLabUk ",
@@ -2709,7 +2934,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Darren ",
@@ -2721,7 +2947,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "William ",
@@ -2733,7 +2960,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "AndyH ",
@@ -2745,7 +2973,8 @@ const usersData = [
         "city": "Carlton",
         "country": "United Kingdom",
         "postcode": "DL8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dan ‘the mirafit man’ ",
@@ -2757,7 +2986,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Deadlift Lover ",
@@ -2769,7 +2999,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shah ",
@@ -2781,7 +3012,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Maccie ",
@@ -2793,7 +3025,8 @@ const usersData = [
         "city": "Ford",
         "country": "United Kingdom",
         "postcode": "GL54",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Andyt ",
@@ -2805,7 +3038,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mossy ",
@@ -2817,7 +3051,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sparky ",
@@ -2829,7 +3064,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ray ",
@@ -2841,7 +3077,8 @@ const usersData = [
         "city": "Carlton",
         "country": "United Kingdom",
         "postcode": "DL8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Powerlifting girlie ",
@@ -2853,7 +3090,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gez ",
@@ -2865,7 +3103,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Fed Tom ",
@@ -2877,7 +3116,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rickybobby ",
@@ -2889,7 +3129,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Damien ",
@@ -2901,7 +3142,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "James Fisher ",
@@ -2913,7 +3155,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kane ",
@@ -2925,7 +3168,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lukey ",
@@ -2937,7 +3181,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Micksmick ",
@@ -2949,7 +3194,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Iain ",
@@ -2961,7 +3207,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Weir ",
@@ -2973,7 +3220,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Boz ",
@@ -2985,7 +3233,8 @@ const usersData = [
         "city": "Marston",
         "country": "United Kingdom",
         "postcode": "ST20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SaharaFee ",
@@ -2997,7 +3246,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Master Chief ",
@@ -3009,7 +3259,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr Blenham ",
@@ -3021,7 +3272,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Konrad ",
@@ -3033,7 +3285,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rons ",
@@ -3045,7 +3298,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Thewkout ",
@@ -3057,7 +3311,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "NM ",
@@ -3069,7 +3324,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Beynsy ",
@@ -3081,7 +3337,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Vonovine ",
@@ -3093,7 +3350,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Harry S ",
@@ -3105,7 +3363,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "P! ",
@@ -3117,7 +3376,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC1V",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jude ",
@@ -3129,7 +3389,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Red ",
@@ -3141,7 +3402,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nabs ",
@@ -3153,7 +3415,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Arnold S ",
@@ -3165,7 +3428,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Billy ",
@@ -3177,7 +3441,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sylvia ",
@@ -3189,7 +3454,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jamie ",
@@ -3201,7 +3467,8 @@ const usersData = [
         "city": "Edinburgh",
         "country": "United Kingdom",
         "postcode": "EH9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Trevor sharp ",
@@ -3213,7 +3480,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "cazza ",
@@ -3225,7 +3493,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chez ",
@@ -3237,7 +3506,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ness ",
@@ -3249,7 +3519,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr Brown ",
@@ -3261,7 +3532,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Yoshi fitness ",
@@ -3273,7 +3545,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Geesypeeps ",
@@ -3285,7 +3558,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Louise P ",
@@ -3297,7 +3571,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jeff ",
@@ -3309,7 +3584,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ric ",
@@ -3321,7 +3597,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "VBR Fitness ",
@@ -3333,7 +3610,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "UG Strongman ",
@@ -3345,7 +3623,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hans ",
@@ -3357,7 +3636,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Emily ",
@@ -3369,7 +3649,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Anthony ",
@@ -3381,7 +3662,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "El Kevo ",
@@ -3393,7 +3675,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dropandgiveme20 ",
@@ -3405,7 +3688,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Oli ",
@@ -3417,7 +3701,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Paulie ",
@@ -3429,7 +3714,8 @@ const usersData = [
         "city": "Glasgow",
         "country": "United Kingdom",
         "postcode": "G4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "J ",
@@ -3441,7 +3727,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "PT Guru ",
@@ -3453,7 +3740,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Magdalena ",
@@ -3465,7 +3753,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "CB4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "AF ",
@@ -3477,7 +3766,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ant ",
@@ -3489,7 +3779,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Julian ",
@@ -3501,7 +3792,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Aymeric ",
@@ -3513,7 +3805,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Viv ",
@@ -3525,7 +3818,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lorraine ",
@@ -3537,7 +3831,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RichardP ",
@@ -3549,7 +3844,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jordon ",
@@ -3561,7 +3857,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lisa ",
@@ -3573,7 +3870,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nicky H ",
@@ -3585,7 +3883,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pamie ",
@@ -3597,7 +3896,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "happy ",
@@ -3609,7 +3909,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "John-Lee ",
@@ -3621,7 +3922,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stephen ",
@@ -3633,7 +3935,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Naomi ",
@@ -3645,7 +3948,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MartinB ",
@@ -3657,7 +3961,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "NN11",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Winky ",
@@ -3669,7 +3974,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Guy ",
@@ -3681,7 +3987,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dorian ",
@@ -3693,7 +4000,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Luka ",
@@ -3705,7 +4013,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "PH ",
@@ -3717,7 +4026,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Phil ",
@@ -3729,7 +4039,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Paulski ",
@@ -3741,7 +4052,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Simon B ",
@@ -3753,7 +4065,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JC ",
@@ -3765,7 +4078,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ioan ",
@@ -3777,7 +4091,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "CJ ",
@@ -3789,7 +4104,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "CB4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kristians ",
@@ -3801,7 +4117,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hopskinz ",
@@ -3813,7 +4130,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "TM28 ",
@@ -3825,7 +4143,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Physiques Gym Bexhill ",
@@ -3837,7 +4156,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dan Dawson ",
@@ -3849,7 +4169,8 @@ const usersData = [
         "city": "Eaton",
         "country": "United Kingdom",
         "postcode": "DN22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Keely ",
@@ -3861,7 +4182,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nynke20 ",
@@ -3873,7 +4195,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lizzie ",
@@ -3885,7 +4208,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Wenfy ",
@@ -3897,7 +4221,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Scholesy ",
@@ -3909,7 +4234,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "DARREN ",
@@ -3921,7 +4247,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nick Davo ",
@@ -3933,7 +4260,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Craig ",
@@ -3945,7 +4273,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Uncle ",
@@ -3957,7 +4286,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC1V",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "A ",
@@ -3969,7 +4299,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "CT15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tiger ",
@@ -3981,7 +4312,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "AliRunner ",
@@ -3993,7 +4325,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JD ",
@@ -4005,7 +4338,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nick ",
@@ -4017,7 +4351,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Happy Chappy ",
@@ -4029,7 +4364,8 @@ const usersData = [
         "city": "Twyford",
         "country": "United Kingdom",
         "postcode": "LE14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JonyB ",
@@ -4041,7 +4377,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Owen ",
@@ -4053,7 +4390,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Iesa ",
@@ -4065,7 +4403,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mitch p ",
@@ -4077,7 +4416,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Salesy ",
@@ -4089,7 +4429,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JV ",
@@ -4101,7 +4442,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "OldmanDave ",
@@ -4113,7 +4455,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC1V",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sibbo57 ",
@@ -4125,7 +4468,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "LostBoy ",
@@ -4137,7 +4481,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Andy P ",
@@ -4149,7 +4494,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mina ",
@@ -4161,7 +4507,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Very happy customer. ",
@@ -4173,7 +4520,8 @@ const usersData = [
         "city": "Edinburgh",
         "country": "United Kingdom",
         "postcode": "EH9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jack ",
@@ -4185,7 +4533,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Leebo ",
@@ -4197,7 +4546,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Grover ",
@@ -4209,7 +4559,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "CT15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BENJ ",
@@ -4221,7 +4572,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Cb ",
@@ -4233,7 +4585,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dek ",
@@ -4245,7 +4598,8 @@ const usersData = [
         "city": "Horton",
         "country": "United Kingdom",
         "postcode": "BS37",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bazzer ",
@@ -4257,7 +4611,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Huddo ",
@@ -4269,7 +4624,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jon P ",
@@ -4281,7 +4637,8 @@ const usersData = [
         "city": "Horton",
         "country": "United Kingdom",
         "postcode": "BS37",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Seb ",
@@ -4293,7 +4650,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "George ",
@@ -4305,7 +4663,8 @@ const usersData = [
         "city": "Carlton",
         "country": "United Kingdom",
         "postcode": "DL8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lord Liftington ",
@@ -4317,7 +4676,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Abi ",
@@ -4329,7 +4689,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "pc ",
@@ -4341,7 +4702,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kay ",
@@ -4353,7 +4715,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Becky ",
@@ -4365,7 +4728,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Carts ",
@@ -4377,7 +4741,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rob ",
@@ -4389,7 +4754,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hayley ",
@@ -4401,7 +4767,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "clijam ",
@@ -4413,7 +4780,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Paula ",
@@ -4425,7 +4793,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "babs ",
@@ -4437,7 +4806,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L74",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Janet ",
@@ -4449,7 +4819,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kate ",
@@ -4461,7 +4832,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GinaG ",
@@ -4473,7 +4845,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Slip sliding away... ",
@@ -4485,7 +4858,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hosk ",
@@ -4497,7 +4871,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "E ",
@@ -4509,7 +4884,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "ED ",
@@ -4521,7 +4897,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "K ",
@@ -4533,7 +4910,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dawnygirl ",
@@ -4545,7 +4923,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Roughrider ",
@@ -4557,7 +4936,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Den ",
@@ -4569,7 +4949,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jon ",
@@ -4581,7 +4962,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ralph ",
@@ -4593,7 +4975,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "WT74 ",
@@ -4605,7 +4988,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Johnny ",
@@ -4617,7 +5001,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Annie ",
@@ -4629,7 +5014,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Feral ",
@@ -4641,7 +5027,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Brownie ",
@@ -4653,7 +5040,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "STres ",
@@ -4665,7 +5053,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MisterP17 ",
@@ -4677,7 +5066,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bernard ",
@@ -4689,7 +5079,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "catb0y ",
@@ -4701,7 +5092,8 @@ const usersData = [
         "city": "Whitwell",
         "country": "United Kingdom",
         "postcode": "DL10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "mark ",
@@ -4713,7 +5105,8 @@ const usersData = [
         "city": "Merton",
         "country": "United Kingdom",
         "postcode": "SW19",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SC ",
@@ -4725,7 +5118,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bhavana ",
@@ -4737,7 +5131,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stepper ",
@@ -4749,7 +5144,8 @@ const usersData = [
         "city": "Ford",
         "country": "United Kingdom",
         "postcode": "GL54",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mani ",
@@ -4761,7 +5157,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Marta ",
@@ -4773,7 +5170,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GandT ",
@@ -4785,7 +5183,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MrDutch ",
@@ -4797,7 +5196,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jane ",
@@ -4809,7 +5209,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Barb ",
@@ -4821,7 +5222,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Wendell ",
@@ -4833,7 +5235,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MariaO ",
@@ -4845,7 +5248,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tilly’s mum ",
@@ -4857,7 +5261,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tracey66 ",
@@ -4869,7 +5274,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "donna ",
@@ -4881,7 +5287,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ian ",
@@ -4893,7 +5300,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sandra ",
@@ -4905,7 +5313,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sophia, Surrey ",
@@ -4917,7 +5326,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Emma ",
@@ -4929,7 +5339,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "CB4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Big Daddy ",
@@ -4941,7 +5352,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kelly ",
@@ -4953,7 +5365,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "kaya ",
@@ -4965,7 +5378,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mauzi ",
@@ -4977,7 +5391,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Becca ",
@@ -4989,7 +5404,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Lb129 ",
@@ -5001,7 +5417,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "NA ",
@@ -5013,7 +5430,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Scobie ",
@@ -5025,7 +5443,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Disappointed ",
@@ -5037,7 +5456,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "… ",
@@ -5049,7 +5469,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sally ",
@@ -5061,7 +5482,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nettstar ",
@@ -5073,7 +5495,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Andie ",
@@ -5085,7 +5508,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "NickNack ",
@@ -5097,7 +5521,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Di ",
@@ -5109,7 +5534,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Susi2shoes ",
@@ -5121,7 +5547,8 @@ const usersData = [
         "city": "Ford",
         "country": "United Kingdom",
         "postcode": "GL54",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hele ",
@@ -5133,7 +5560,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "wadstw ",
@@ -5145,7 +5573,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "An ",
@@ -5157,7 +5586,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kasia ",
@@ -5169,7 +5599,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jeanie ",
@@ -5181,7 +5612,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Carl86 ",
@@ -5193,7 +5625,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pistol Prits ",
@@ -5205,7 +5638,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rowan ",
@@ -5217,7 +5651,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Suesan ",
@@ -5229,7 +5664,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shahz ",
@@ -5241,7 +5677,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "sleeplessj ",
@@ -5253,7 +5690,8 @@ const usersData = [
         "city": "Wirral",
         "country": "United Kingdom",
         "postcode": "CH48",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Michael ",
@@ -5265,7 +5703,8 @@ const usersData = [
         "city": "Tullich",
         "country": "United Kingdom",
         "postcode": "AB55",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Aimee ",
@@ -5277,7 +5716,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dave R ",
@@ -5289,7 +5729,8 @@ const usersData = [
         "city": "Normanton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dayne ",
@@ -5301,7 +5742,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kairos Martial Arts ",
@@ -5313,7 +5755,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shell ",
@@ -5325,7 +5768,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Agnes ",
@@ -5337,7 +5781,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Baldy ",
@@ -5349,7 +5794,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "El ",
@@ -5361,7 +5807,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "MattLav ",
@@ -5373,7 +5820,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Danners ",
@@ -5385,7 +5833,8 @@ const usersData = [
         "city": "Manchester",
         "country": "United Kingdom",
         "postcode": "M14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SP ",
@@ -5397,7 +5846,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "H ",
@@ -5409,7 +5859,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dee ",
@@ -5421,7 +5872,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Matty ",
@@ -5433,7 +5885,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Alan ",
@@ -5445,7 +5898,8 @@ const usersData = [
         "city": "Aberdeen",
         "country": "United Kingdom",
         "postcode": "AB39",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sj ",
@@ -5457,7 +5911,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BigAl ",
@@ -5469,7 +5924,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Natriles ",
@@ -5481,7 +5937,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Val ",
@@ -5493,7 +5950,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Spanner ",
@@ -5505,7 +5963,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Curtis ",
@@ -5517,7 +5976,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Garage Gym Nick ",
@@ -5529,7 +5989,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SwindonRower ",
@@ -5541,7 +6002,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "GT ",
@@ -5553,7 +6015,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "BettyB ",
@@ -5565,7 +6028,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jo ",
@@ -5577,7 +6041,8 @@ const usersData = [
         "city": "Horton",
         "country": "United Kingdom",
         "postcode": "BS37",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tony ",
@@ -5589,7 +6054,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Derfael ",
@@ -5601,7 +6067,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gain Forth Gym ",
@@ -5613,7 +6080,8 @@ const usersData = [
         "city": "Whitwell",
         "country": "United Kingdom",
         "postcode": "DL10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pete ",
@@ -5625,7 +6093,8 @@ const usersData = [
         "city": "Weston",
         "country": "United Kingdom",
         "postcode": "GU32",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Wayne ",
@@ -5637,7 +6106,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "yusuf ",
@@ -5649,7 +6119,8 @@ const usersData = [
         "city": "Swindon",
         "country": "United Kingdom",
         "postcode": "SN1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tiny ",
@@ -5661,7 +6132,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hopscotcher ",
@@ -5673,7 +6145,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Davo ",
@@ -5685,7 +6158,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shirl ",
@@ -5697,7 +6171,8 @@ const usersData = [
         "city": "Eaton",
         "country": "United Kingdom",
         "postcode": "DN22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "John doe ",
@@ -5709,7 +6184,8 @@ const usersData = [
         "city": "Bristol",
         "country": "United Kingdom",
         "postcode": "BS41",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ali ",
@@ -5721,7 +6197,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ann ",
@@ -5733,7 +6210,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Nikola ",
@@ -5745,7 +6223,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "CC ",
@@ -5757,7 +6236,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "sumeet21585 ",
@@ -5769,7 +6249,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Patrick ",
@@ -5781,7 +6262,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mia ",
@@ -5793,7 +6275,8 @@ const usersData = [
         "city": "Charlton",
         "country": "United Kingdom",
         "postcode": "OX12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shokes ",
@@ -5805,7 +6288,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Corin ",
@@ -5817,7 +6301,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Triangledan ",
@@ -5829,7 +6314,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Niall N ",
@@ -5841,7 +6327,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Oldboygrandad ",
@@ -5853,7 +6340,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RyanT ",
@@ -5865,7 +6353,8 @@ const usersData = [
         "city": "Stapleford",
         "country": "United Kingdom",
         "postcode": "LN6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Derek ",
@@ -5877,7 +6366,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Steve B ",
@@ -5889,7 +6379,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bob ",
@@ -5901,7 +6392,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dorey ",
@@ -5913,7 +6405,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Robert ",
@@ -5925,7 +6418,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bingojones ",
@@ -5937,7 +6431,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mongey ",
@@ -5949,7 +6444,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kacy ",
@@ -5961,7 +6457,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Flo ",
@@ -5973,7 +6470,8 @@ const usersData = [
         "city": "Whitchurch",
         "country": "United Kingdom",
         "postcode": "BS14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Marisa ",
@@ -5985,7 +6483,8 @@ const usersData = [
         "city": "Burnside",
         "country": "United Kingdom",
         "postcode": "EH52",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Full circle fitness ",
@@ -5997,7 +6496,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "CT15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bish ",
@@ -6009,7 +6509,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Scott ",
@@ -6021,7 +6522,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC1V",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Taff ",
@@ -6033,7 +6535,8 @@ const usersData = [
         "city": "Manchester",
         "country": "United Kingdom",
         "postcode": "M14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Raz ",
@@ -6045,7 +6548,8 @@ const usersData = [
         "city": "Liverpool",
         "country": "United Kingdom",
         "postcode": "L33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kevin ",
@@ -6057,7 +6561,8 @@ const usersData = [
         "city": "Marston",
         "country": "United Kingdom",
         "postcode": "ST20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hass ",
@@ -6069,7 +6574,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jonny ",
@@ -6081,7 +6587,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Mr T ",
@@ -6093,7 +6600,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kawt55 ",
@@ -6105,7 +6613,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tony P ",
@@ -6117,7 +6626,8 @@ const usersData = [
         "city": "Kingston",
         "country": "United Kingdom",
         "postcode": "DT10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tony Page ",
@@ -6129,7 +6639,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Steph ",
@@ -6141,7 +6652,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "FIFA ",
@@ -6153,7 +6665,8 @@ const usersData = [
         "city": "Glasgow",
         "country": "United Kingdom",
         "postcode": "G4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Baz ",
@@ -6165,7 +6678,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hollie ",
@@ -6177,7 +6691,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "CT15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Review ",
@@ -6189,7 +6704,8 @@ const usersData = [
         "city": "Aston",
         "country": "United Kingdom",
         "postcode": "TF6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Balloo ",
@@ -6201,7 +6717,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Weephil ",
@@ -6213,7 +6730,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SG ",
@@ -6225,7 +6743,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "G-Man ",
@@ -6237,7 +6756,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Thomas ",
@@ -6249,7 +6769,8 @@ const usersData = [
         "city": "Buckland",
         "country": "United Kingdom",
         "postcode": "CT16",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sara ",
@@ -6261,7 +6782,8 @@ const usersData = [
         "city": "Langley",
         "country": "United Kingdom",
         "postcode": "SG4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "nige ",
@@ -6273,7 +6795,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chris B ",
@@ -6285,7 +6808,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "NG22",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "JIRc ",
@@ -6297,7 +6821,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "SW1E",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jan ",
@@ -6309,7 +6834,8 @@ const usersData = [
         "city": "Glasgow",
         "country": "United Kingdom",
         "postcode": "G4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "bigjon ",
@@ -6321,7 +6847,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Peter Rogerson ",
@@ -6333,7 +6860,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Amy ",
@@ -6345,7 +6873,8 @@ const usersData = [
         "city": "Norton",
         "country": "United Kingdom",
         "postcode": "S8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Neily ",
@@ -6357,7 +6886,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "DN21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Misty ",
@@ -6369,7 +6899,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Federico ",
@@ -6381,7 +6912,8 @@ const usersData = [
         "city": "East End",
         "country": "United Kingdom",
         "postcode": "BH21",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gem ",
@@ -6393,7 +6925,8 @@ const usersData = [
         "city": "Kirkton",
         "country": "United Kingdom",
         "postcode": "KW10",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Theo ",
@@ -6405,7 +6938,8 @@ const usersData = [
         "city": "Newtown",
         "country": "United Kingdom",
         "postcode": "RG20",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sid ",
@@ -6417,7 +6951,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "oldtimer ",
@@ -6429,7 +6964,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ben ",
@@ -6441,7 +6977,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Michal ",
@@ -6453,7 +6990,8 @@ const usersData = [
         "city": "Sutton",
         "country": "United Kingdom",
         "postcode": "RH5",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Bren1997 ",
@@ -6465,7 +7003,8 @@ const usersData = [
         "city": "West End",
         "country": "United Kingdom",
         "postcode": "DN36",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SteveB ",
@@ -6477,7 +7016,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "FM ",
@@ -6489,7 +7029,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Som ",
@@ -6501,7 +7042,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sirloin ",
@@ -6513,7 +7055,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "justin ",
@@ -6525,7 +7068,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jamesy ",
@@ -6537,7 +7081,8 @@ const usersData = [
         "city": "Edinburgh",
         "country": "United Kingdom",
         "postcode": "EH9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Kat EG ",
@@ -6549,7 +7094,8 @@ const usersData = [
         "city": "Walton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "flo ",
@@ -6561,7 +7107,8 @@ const usersData = [
         "city": "Dean",
         "country": "United Kingdom",
         "postcode": "OX7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Surfseeker ",
@@ -6573,7 +7120,8 @@ const usersData = [
         "city": "Milton",
         "country": "United Kingdom",
         "postcode": "AB56",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chocojetpack ",
@@ -6585,7 +7133,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "IV1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dz69 ",
@@ -6597,7 +7146,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "G. ",
@@ -6609,7 +7159,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Iron sanctum ",
@@ -6621,7 +7172,8 @@ const usersData = [
         "city": "Thorpe",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "WILLIAM ",
@@ -6633,7 +7185,8 @@ const usersData = [
         "city": "Carlton",
         "country": "United Kingdom",
         "postcode": "DL8",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "garrymckay ",
@@ -6645,7 +7198,8 @@ const usersData = [
         "city": "Newbiggin",
         "country": "United Kingdom",
         "postcode": "NE46",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "matt ",
@@ -6657,7 +7211,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Jonny Was ",
@@ -6669,7 +7224,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Chunky but funky ",
@@ -6681,7 +7237,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stuart ",
@@ -6693,7 +7250,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "CubbyWorse ",
@@ -6705,7 +7263,8 @@ const usersData = [
         "city": "Hatton",
         "country": "United Kingdom",
         "postcode": "CV35",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Vinny ",
@@ -6717,7 +7276,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ren ",
@@ -6729,7 +7289,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hendry ",
@@ -6741,7 +7302,8 @@ const usersData = [
         "city": "Pentre",
         "country": "United Kingdom",
         "postcode": "SY4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Zeejay ",
@@ -6753,7 +7315,8 @@ const usersData = [
         "city": "Church End",
         "country": "United Kingdom",
         "postcode": "N3",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Foz ",
@@ -6765,7 +7328,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC1B",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dale ",
@@ -6777,7 +7341,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Candles ",
@@ -6789,7 +7354,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gruffjet ",
@@ -6801,7 +7367,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Stewart ",
@@ -6813,7 +7380,8 @@ const usersData = [
         "city": "Newport",
         "country": "United Kingdom",
         "postcode": "NR29",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "WS ",
@@ -6825,7 +7393,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Rorschach. ",
@@ -6837,7 +7406,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Hugh ",
@@ -6849,7 +7419,8 @@ const usersData = [
         "city": "Halton",
         "country": "United Kingdom",
         "postcode": "LS9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Big B ",
@@ -6861,7 +7432,8 @@ const usersData = [
         "city": "Bradford",
         "country": "United Kingdom",
         "postcode": "BD7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RS ",
@@ -6873,7 +7445,8 @@ const usersData = [
         "city": "Preston",
         "country": "United Kingdom",
         "postcode": "PR1",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "John Fish ",
@@ -6885,7 +7458,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "W1F",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Ryo ",
@@ -6897,7 +7471,8 @@ const usersData = [
         "city": "Glasgow",
         "country": "United Kingdom",
         "postcode": "G4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Sim ",
@@ -6909,7 +7484,8 @@ const usersData = [
         "city": "Linton",
         "country": "United Kingdom",
         "postcode": "BD23",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Pip ",
@@ -6921,7 +7497,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Titan ",
@@ -6933,7 +7510,8 @@ const usersData = [
         "city": "Craigavon",
         "country": "United Kingdom",
         "postcode": "BT66",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "DRP Fitness ",
@@ -6945,7 +7523,8 @@ const usersData = [
         "city": "Bradford",
         "country": "United Kingdom",
         "postcode": "BD7",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "PL ",
@@ -6957,7 +7536,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B40",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "SJ ",
@@ -6969,7 +7549,8 @@ const usersData = [
         "city": "Manchester",
         "country": "United Kingdom",
         "postcode": "M14",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Asha ",
@@ -6981,7 +7562,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "RogueDriver ",
@@ -6993,7 +7575,8 @@ const usersData = [
         "city": "Newton",
         "country": "United Kingdom",
         "postcode": "NG34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Vin ",
@@ -7005,7 +7588,8 @@ const usersData = [
         "city": "Wootton",
         "country": "United Kingdom",
         "postcode": "NN4",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Tarzan ",
@@ -7017,7 +7601,8 @@ const usersData = [
         "city": "Upton",
         "country": "United Kingdom",
         "postcode": "WF9",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "basil ",
@@ -7029,7 +7614,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "WC2H",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Joseph ",
@@ -7041,7 +7627,8 @@ const usersData = [
         "city": "Kinloch",
         "country": "United Kingdom",
         "postcode": "PH43",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Gaz ",
@@ -7053,7 +7640,8 @@ const usersData = [
         "city": "Ashley",
         "country": "United Kingdom",
         "postcode": "SN13",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Dimitris ",
@@ -7065,7 +7653,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Eric ",
@@ -7077,7 +7666,8 @@ const usersData = [
         "city": "Belfast",
         "country": "United Kingdom",
         "postcode": "BT2",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Raph ",
@@ -7089,7 +7679,8 @@ const usersData = [
         "city": "Brampton",
         "country": "United Kingdom",
         "postcode": "NR34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Shina ",
@@ -7101,7 +7692,8 @@ const usersData = [
         "city": "Seaton",
         "country": "United Kingdom",
         "postcode": "LE15",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Spike ",
@@ -7113,7 +7705,8 @@ const usersData = [
         "city": "Leeds",
         "country": "United Kingdom",
         "postcode": "LS6",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Carl ",
@@ -7125,7 +7718,8 @@ const usersData = [
         "city": "Denton",
         "country": "United Kingdom",
         "postcode": "M34",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Danny ",
@@ -7137,7 +7731,8 @@ const usersData = [
         "city": "Horton",
         "country": "United Kingdom",
         "postcode": "BS37",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Superman ",
@@ -7149,7 +7744,8 @@ const usersData = [
         "city": "Birmingham",
         "country": "United Kingdom",
         "postcode": "B12",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Henry ",
@@ -7161,7 +7757,8 @@ const usersData = [
         "city": "Sheffield",
         "country": "United Kingdom",
         "postcode": "S33",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     },
     {
         "username": "Big Si ",
@@ -7173,7 +7770,8 @@ const usersData = [
         "city": "London",
         "country": "United Kingdom",
         "postcode": "EC3M",
-        "password": "Password1!"
+        "password": "$2a$10$hBn5gu6cGelJNiE6DDsaBOmZgyumCSzVwrOK/37FWgJ6aLIdZSSI2",
+        "email_verified": true
     }
 ]
 
