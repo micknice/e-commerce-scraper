@@ -44,6 +44,7 @@ fs.readFile(filePath, 'utf8', async(err, data) => {
                         city: userArr[index].city,
                         country: userArr[index].country,
                         postcode: userArr[index].postcode,
+                        password: 'Password1!'
                     }
                     console.log(userObj, 'userObj')
                     userObjArr.push(userObj)
